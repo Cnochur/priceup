@@ -1,5 +1,3 @@
-[linked_in]: www.linkedin.com/in/cnochursaunders
-
 # PriceUp
 
 ### This will be used by a family member for their business
@@ -42,4 +40,6 @@ I want to build this app with using nothing but the original documentation of th
 I have built a somewhat solid enough knowledge base over the past few months but this has led me to use AI as a mentor and sometimes as an easy way out. I have some personal projects that I am working on and I want to be proud of my work and not feel like a fraud.
 
 
-### Please dont hesitate to reach out to me via [LinkedIn](linked_in)
+### Please dont hesitate to reach out to me via: 
+
+www.linkedin.com/in/cnochursaunders
