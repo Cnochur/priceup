@@ -2,21 +2,21 @@
 
 # PriceUp
 
-### A simple PWA for pricing jobs, in this case, Blinds and Plantation Shutters.
-**This will be used by a family member for their business.**
----
+### This will be used by a family member for their business
 
+A simple PWA for pricing jobs, in this case, Blinds and Plantation Shutters.
+    
 ## Goal
 
 The user wants a simple way for pricing jobs from the excel files that they have. 
----
+
 
 ## Plan
 
 Build a simple, responsive web app that the user can install on mobile or desktop.
----
 
-The app itself will be a simple python flask script that will allow the user to upload the csv [**and excel in the future**] documents that contain the pricing 'matrix'.
+
+The app itself will be a simple python flask script that will allow the user to upload the csv *and excel in the future* documents that contain the pricing 'matrix'.
 
 It will then process and clean the data using a seperate data cleaning script using python and pandas.
 
